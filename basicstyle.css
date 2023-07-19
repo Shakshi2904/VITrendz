@@ -1,0 +1,202 @@
+.back{
+    background-image: url("train5.png");
+    height:800px;
+    background-size: cover;
+    position: absolute;
+    top:23%
+}
+.div1{
+    margin-top:1%;
+    width: 100%;
+    height: 120px;
+    margin-top: -2%;
+}
+.pic1{
+    margin-left:0%;
+    margin:3%;
+    margin-top: 4%;
+}
+.content{
+    margin-left: 14%;
+}
+.top1{
+    margin-left: 0%;
+    margin-top: -9%;
+    margin-bottom: 2%;
+}
+.top1 a{
+    margin-left: 2%;
+}
+.top2 a{
+    margin-left:2%;
+}
+}
+.top2{
+    margin-left: 16%;
+    margin-top: 1%;
+}
+.pic2{
+    margin-left: 90%;
+    margin-top: -7%;
+}
+
+.form{
+    background-image: url(white.jpg);
+    position: absolute;
+    left:3%;
+    top:10%;
+    width:25%;
+    height:55%;
+    border:1px solid lightgrey;
+    border-radius:5px;
+}
+input[type="text"],
+input[type="date"],
+select
+{
+    width:50%;
+    margin: 10px;
+    padding: 10px;
+    border:1px solid lightgray;
+    border-radius:5px;
+}
+.button{
+    padding:5px;
+}
+.button1{
+    padding:5px;
+}
+.b1{
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.text{
+    background-image: url(white.jpg);
+    margin-top: 40%;
+    width: 25%;
+    margin-left: 3%;
+    border:1px solid lightgrey;
+    border-radius:5px;
+}
+.div3{
+    position: absolute;
+    top:150%;
+    left:15%;
+}
+.div4{
+    position: absolute;
+    top:165%;
+    left:30%;
+}
+.div5{
+position: absolute;
+    margin-top:82%;
+}
+.button2{
+border-radius: 50%;
+    border: 0px;
+    background-color: white;
+    margin-left: 40px;
+    margin-top:2%;
+}
+.div51{
+    
+}
+.div52{
+    
+}
+.div6{
+    position: absolute;
+    top: 260%;
+}
+.div61{
+    margin-left: 300%;
+    margin-bottom: 3%;
+    
+}
+.div621{
+margin-left:5%;
+}
+.div622{
+    position: absolute;
+    left: 150%;
+    top: 0%;
+}
+.div623{
+position: absolute;
+    left: 300%;
+    top: 0%;
+} 
+.div624{
+    margin-top:180%;
+    margin-left:5%;
+} 
+.div625{
+        position: absolute;
+    /* margin-left: 120%; */
+    /* margin-top: 182%; */
+    top: 54%;
+    left: 150%;
+}
+.divtop{
+    position: absolute;
+}
+.divbottom{
+    position: absolute;
+}
+.div7{
+        margin-top: 205%;
+    background-image: linear-gradient(#673AB7,#8d35ff61);
+    color: #080a0c;
+}
+.h1{
+    position: absolute;
+    left:4%;
+    margin-top:35px;
+}
+.b3{
+    background-image: linear-gradient(#673AB7,#8d35ff61);
+    color: #080a0c;
+    border-radius: 50%;
+    margin:3px;
+    border:0px;
+}
+.bu3{
+    margin-left:30%;
+}
+.div81{
+    position: absolute;
+    width:10%;
+    left:10%;
+}
+.div82{
+    position: absolute;
+    width:10%;
+    left:30%;
+}
+.div83{
+    position: absolute;
+    width:10%;
+    left:50%
+}
+.div84{
+    position: absolute;
+    width:10%;
+    left:70%;
+}
+.div8{
+    background-color: #782be259;
+    height:390px;
+    
+}
+.b5{
+    width:120%;
+    margin:6%;
+    background-color: #782be200;
+    border:0px;
+}
+.b5:hover{
+    background-color:#782be200;
+    border:1px solid black;
+    transform: translateY(-5px);
+}
